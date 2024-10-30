@@ -22,3 +22,4 @@ Some examples are:
   - income level
   - ...
 - exploring and dealing with other relevant missing values
+- digging into current findings (e.g. *amount of people travelling by hour vs amount of trips by hour*)
